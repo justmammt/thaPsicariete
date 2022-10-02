@@ -1,2 +1,3 @@
 # thaPsicariete
-Music app for thasup, psicologi and ariete.
+Free music app made for iOS
+
